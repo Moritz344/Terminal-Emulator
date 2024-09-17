@@ -1,5 +1,5 @@
 #!/bin/sh
 
-chmod +x shell.py
+chmod +x main.py
 
 python3 main.py
