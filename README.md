@@ -22,6 +22,3 @@ This project implements a basic command-line interface (CLI) in Python, mimickin
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
-
-
-
