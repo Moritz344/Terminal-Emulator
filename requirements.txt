@@ -1,5 +1,1 @@
 termcolor
-time
-subprocess
-readline
-sys
